@@ -1,4 +1,7 @@
-<?php namespace Config;
+<?php
+
+namespace Config;
+//app
 
 use CodeIgniter\Config\BaseConfig;
 
